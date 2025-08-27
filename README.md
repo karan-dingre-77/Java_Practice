@@ -30,11 +30,11 @@ Later, move towards OOPs, Collections, File Handling, and Projects.
 
 📂 Repository Structure
 Java-Practice/
-│
+│ <br>
 ├── Day1/   -> Basic programs  
 ├── Day2/   -> Conditional statements  
 ├── Day3/   -> Loops practice
-├── Day4/   ->   
+<br>├── Day4/   ->   
 └── ...
 
 🤝 Contribution
