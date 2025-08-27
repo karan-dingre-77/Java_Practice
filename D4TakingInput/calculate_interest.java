@@ -6,7 +6,7 @@ public class calculate_interest {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("enter value of P ");
+        System.out.println("enter values of P ");
         float p = sc.nextFloat();
 
         System.out.println("enter value of T ");
