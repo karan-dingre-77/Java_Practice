@@ -1,4 +1,4 @@
-package D5Conditionals;
+package D3ConditionalStmt;
 
 import java.util.Scanner;
 
