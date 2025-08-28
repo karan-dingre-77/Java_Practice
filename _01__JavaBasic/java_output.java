@@ -1,4 +1,4 @@
-package D1JavaBasic;
+package _01__JavaBasic;
 
 public class java_output {
     public static void main(String args[]){

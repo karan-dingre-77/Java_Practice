@@ -1,4 +1,4 @@
-package D2TakingInputs;
+package _02__SimpleProgram;
 
 import java.util.Scanner; // import java scanner class
 
