@@ -35,7 +35,7 @@ Java-Practice/
 ├── Day2/   -> Conditional statements  
 ├── Day3/   -> Loops practice
 <br>├── Day4/   -> Problems on Loops
-<br>├── Day4/   -> Pattern Printing   
+<br>├── Day5/   -> Pattern Printing   
 └── ...
 
 🤝 Contribution
