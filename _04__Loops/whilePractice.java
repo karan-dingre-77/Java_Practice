@@ -1,5 +1,5 @@
-package Loops;
-import java.util.Scanner;
+package _04__Loops;
+
 public class whilePractice {
     public static void main(String args[]){
 

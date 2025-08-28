@@ -1,4 +1,4 @@
-package PatternPrinting;
+package _06__PatternPrinting;
 import java.util.Scanner;
 public class RectangularPtrn {
     public static void main(String[] args) {

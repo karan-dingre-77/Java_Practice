@@ -1,4 +1,4 @@
-package PatternPrinting;
+package _06__PatternPrinting;
 import java.util.Scanner;
 public class TriangularPtrn {
     public static void main(String[] args) {

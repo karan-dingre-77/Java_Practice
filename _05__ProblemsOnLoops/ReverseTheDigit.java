@@ -1,4 +1,4 @@
-package ProblemsOnLoops;
+package _05__ProblemsOnLoops;
 import java.util.Scanner;
 public class ReverseTheDigit {
     public static void main(String[] args) {

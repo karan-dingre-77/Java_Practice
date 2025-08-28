@@ -1,4 +1,4 @@
-package Loops;
+package _04__Loops;
 
 public class doWhilePractice {
     public static void main(String[] args) {

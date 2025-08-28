@@ -1,4 +1,4 @@
-package D3ConditionalStmt;
+package _03__ConditionalStmt;
 import java.util.Scanner;
 public class Practice {
     public static void main(String args[]) {
