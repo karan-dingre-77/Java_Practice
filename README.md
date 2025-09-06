@@ -26,7 +26,7 @@ Upload daily practice programs.
 
 Improve problem-solving and logical thinking.
 
-Later, move towards OOPs, Collections, File Handling, and Projects.
+Later, move towards _08__OOPs, Collections, File Handling, and Projects.
 
 📂 Repository Structure
 Java-Practice/
