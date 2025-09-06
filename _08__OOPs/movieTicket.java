@@ -7,8 +7,8 @@ class ticket{
     int Time;
 
     ticket(String nm, int n, int p, int T){
-        m_name = nm;
         t_num = n;
+        m_name = nm;
         t_price = p;
         Time = T;
     }
