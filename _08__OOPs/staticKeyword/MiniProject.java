@@ -1,4 +1,4 @@
-package _09__Methods.staticKeyword;
+package _08__OOPs.staticKeyword;
 
 class studentData{
     int id;
