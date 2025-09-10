@@ -1,4 +1,4 @@
-package _04__Loops.inTheClass;
+package _04__Loops;
 
 public class forloop {
     public static void main(String[] args) {

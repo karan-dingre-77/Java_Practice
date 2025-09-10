@@ -1,4 +1,4 @@
-package _03__ConditionalStmt.inTheClass;
+package _03__ConditionalStmt;
 import java.util.Scanner;
 
 public class FindGreaterNo {

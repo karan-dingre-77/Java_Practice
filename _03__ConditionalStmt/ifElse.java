@@ -1,4 +1,4 @@
-package _03__ConditionalStmt.inTheClass;
+package _03__ConditionalStmt;
 
 public class ifElse {
     public static void main(String[] args) {
