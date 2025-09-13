@@ -15,7 +15,6 @@ public class inherit {
     public static void main(String[] args) {
         childClass child1 = new childClass();
         child1.display();
-        System.out.println();
         child1.show();
     }
 }
