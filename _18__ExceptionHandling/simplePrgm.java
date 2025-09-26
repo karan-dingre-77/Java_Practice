@@ -1,6 +1,6 @@
-package _18__ExceptionHandling.indianProgrammerLecturePRGM;
+package _18__ExceptionHandling;
 
-public class first {
+public class simplePrgm {
     public static void main(String[] args) {
         int arr[] = new int[5];
         try{
