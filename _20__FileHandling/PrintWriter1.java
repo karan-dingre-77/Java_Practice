@@ -12,9 +12,9 @@ public class PrintWriter1 {
         PrintWriter pwr = new PrintWriter(file);
         pwr.println("karan ashok dingre");
         pwr.println("hello i am learning java");
-//        pwr.println(123);
-//        pwr.println(34);
-//        pwr.print(323);
+        pwr.println(123);
+        pwr.println(34);
+        pwr.print(323);
 //        System.out.println(pwr.printf("%d", 4));
         pwr.flush();
 
