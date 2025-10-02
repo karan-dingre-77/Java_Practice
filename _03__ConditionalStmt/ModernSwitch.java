@@ -16,7 +16,6 @@ public class ModernSwitch {
 //            case 7-> System.out.println(day);
 
             default -> System.out.println("I am default");
-
         }
     }
 }
