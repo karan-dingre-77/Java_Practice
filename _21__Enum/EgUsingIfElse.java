@@ -8,6 +8,7 @@ public class EgUsingIfElse {
     public static void main(String[] args) {
 
         status s = status.Success;
+        System.out.println(status.Running);
 
         // using switch statement
 
