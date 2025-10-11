@@ -15,6 +15,5 @@ public class ArrayDeque1 {
         System.out.println(dq);
         System.out.println(dq.peek());
         System.out.println(dq.peekLast());
-
     }
 }
