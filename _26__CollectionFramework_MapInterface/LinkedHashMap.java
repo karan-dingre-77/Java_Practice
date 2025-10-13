@@ -13,5 +13,7 @@ public class LinkedHashMap {
         System.out.println(lm.get(3));
         lm.remove(1);
         System.out.println(lm);
+        lm.put(4, "karan");
+        System.out.println(lm);
     }
 }
