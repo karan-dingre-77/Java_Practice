@@ -1,7 +1,7 @@
 package _27__Multithreading;
 
 class MyThread extends Thread{
-   public void run (){
+   public void run(){
        try{
            for(int i=1; i<=5; i++){
                System.out.println("child thread...");
@@ -23,4 +23,3 @@ public class ByExtendingThreadClass {
         }
     }
 }
-

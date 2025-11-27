@@ -7,7 +7,7 @@ public class Unboxing {
         System.out.println(iobj); // 123
 
         int x = iobj;       // unboxing
-        System.out.println(x);
+        System.out.println(x);  // 123
 
     }
 }
